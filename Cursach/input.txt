@@ -1,0 +1,6 @@
+Abdurahman_Marganov 3392 5 5 5 5 4 3456,
+Bill_Marganov 3397 2 2 2 2 2 345678,
+Roberto_Marganov 3394 2 2 2 2 2 345678,
+Robertd_Marganov 3393 2 2 2 2 2 345678, 
+Ivan_Tugunov 3390 2 3 2 5 4 2432442,
+Alex_Ivashenko 3391 2 3 2 5 4 2432442,
